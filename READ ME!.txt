@@ -1,0 +1,30 @@
+BookShop Application
+This Java application simulates a simple comic novel shop system, allowing users to view a list of comic novels and check whether a selected comic novel is a first edition or not.
+
+ Overview
+The BookShop application performs the following:
+
+Populates a list of ComicNovel objects using a given array of novel data.
+
+Displays all available comic novels with their corresponding codes.
+
+Allows user input to select a novel by code.
+
+Determines whether the selected novel is a first edition (volume 1).
+
+Outputs a message confirming whether the novel is a collector's item.
+
+Features
+USING A JAR FILE ,FOR FURHER RETRIEVAL OF DATA
+Dynamic Data Parsing.
+Object-Oriented: Utilizes a custom class (ComicNovel) and encapsulates logic using methods.
+Reusable Methods.
+
+Possible Enhancements
+Add GUI using Swing or JavaFX for improved user experience.
+
+Allow adding new comic novels dynamically.
+
+Save and load the novel list from a file or database.
+
+Improve search functionality with partial code or title matching.
